@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+    font-family: 'Tourney', cursive;
+    font-size: 100px;
+}
+
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+    max-width: 90%;
+    text-align: justify;
+    margin: 0 auto;
+}
